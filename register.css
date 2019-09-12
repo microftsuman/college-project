@@ -94,10 +94,9 @@
     margin-top: 30px;
 }
 
-.name>div {
-    width: 100%;
+.login-form .form-control{
+    box-shadow: none;
 }
-
 
 /* for devices smaller than 767px */
 
